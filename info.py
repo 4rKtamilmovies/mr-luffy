@@ -43,9 +43,9 @@ SUPPORT_CHAT_ID = int(environ.get('SUPPORT_CHAT_ID'))
 NO_RESULTS_MSG = is_enabled((environ.get("NO_RESULTS_MSG", 'False')), False)
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://RudraAutoFilter:RudraAutoFilter@cluster0.rc8cgoq.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Rrr:Rrr23@cluster0.tyzkjzz.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'FILES')
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 IS_VERIFY = is_enabled((environ.get('IS_VERIFY', 'False')), False)
@@ -59,11 +59,11 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+aLZm_IrTtGZmNWE1')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/rudraraut')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+3oEtjF8Th585YmZl')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Hdnewtamilmovies4k')
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'bollywoodsouthhindimovieswebse')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+3oEtjF8Th585YmZl')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
