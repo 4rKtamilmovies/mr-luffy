@@ -6,7 +6,7 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/god_luffy_ati'>ɪᴛ's ʟᴜғғʏ</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/RRRB23'>♔RRRB♔</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
@@ -147,9 +147,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ʀᴜᴅʀᴀ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @rudra_rout
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/rudra_rout'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : ♔ RRRB ♔
+• ᴜꜱᴇʀɴᴀᴍᴇ : @RRRB23
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/RRRB23'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
