@@ -160,7 +160,7 @@ async def start(client, message):
                           InlineKeyboardButton('💡 sᴜᴘᴘᴏʀᴛ', url=GRP_LNK),
                           InlineKeyboardButton('🎬 ᴍᴏᴠɪᴇs 🎬', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("🧑‍🎓 ᴏᴡɴᴇʀ", url="https://t.me/RRRB23")
+                          InlineKeyboardButton("🧑‍🎓 ᴏᴡɴᴇʀ", url="https://t.me/JitPeterParkerPM_Bot")
                          ]
                         ]
                     )
@@ -179,7 +179,7 @@ async def start(client, message):
                           InlineKeyboardButton('💡 sᴜᴘᴘᴏʀᴛ', url=GRP_LNK),
                           InlineKeyboardButton('🎬 ᴍᴏᴠɪᴇs 🎬', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("🧑‍🎓 ᴏᴡɴᴇʀ", url="https://t.me/RRRB23")
+                          InlineKeyboardButton("🧑‍🎓 ᴏᴡɴᴇʀ", url="https://t.me/JitPeterParkerPM_Bot")
                          ]
                         ]
                     )
@@ -298,7 +298,7 @@ async def start(client, message):
                       InlineKeyboardButton('💡 sᴜᴘᴘᴏʀᴛ', url=GRP_LNK),
                       InlineKeyboardButton('🎬 ᴍᴏᴠɪᴇs 🎬', url=CHNL_LNK)
                    ],[
-                      InlineKeyboardButton("🧑‍🎓 ᴏᴡɴᴇʀ", url="https://t.me/RRRB23")
+                      InlineKeyboardButton("🧑‍🎓 ᴏᴡɴᴇʀ", url="https://t.me/JitPeterParkerPM_Bot")
                      ]
                     ]
                 )
@@ -352,7 +352,7 @@ async def start(client, message):
               InlineKeyboardButton('💡 sᴜᴘᴘᴏʀᴛ', url=GRP_LNK),
               InlineKeyboardButton('🎬 ᴍᴏᴠɪᴇs 🎬', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("🧑‍🎓 ᴏᴡɴᴇʀ", url="https://t.me/RRRB23")
+              InlineKeyboardButton("🧑‍🎓 ᴏᴡɴᴇʀ", url="https://t.me/JitPeterParkerPM_Bot")
              ]
             ]
         )
