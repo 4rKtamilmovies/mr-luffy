@@ -195,16 +195,13 @@ Nᴀᴍᴇ - {}"""
 <b>⚙️ File Size : {file_size}</b>"""
 
     IMDB_TEMPLATE_TXT = """
-<b>Your Results ➠: {query}
-IMDb Data:
+<b>IMDb Data:
 
 🏷 Title: <a href={url}>{title}</a>
 🎭 Genres: {genres}
 📆 Year: <a href={url}/releaseinfo>{year}</a>
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10
-🔖 Story : {plot}
-
-🍁ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href='https://t.me/rudraraut'>ʀᴜᴅʀᴀ ʀᴀᴜᴛ</a></b>"""
+🔖 Story : {plot}"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
